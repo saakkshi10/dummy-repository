@@ -57,6 +57,7 @@ myName =a+b
 // console.log(`${a} * ${b}`)
 // var a = null
 // console.log(typeof(a)) //null is object type datatype
+console.log("This specfic constirubtion done by lavina");
 var x
 // a=5*x
 console.log(typeof(x))
